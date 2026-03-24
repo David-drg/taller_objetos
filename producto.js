@@ -29,7 +29,7 @@ class ProductoDigital extends Producto {
     }
 
     calcularTotal() {
-        return this.precio; // sin IVA
+        return this.precio; 
     }
 
     tarjeta() {
